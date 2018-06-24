@@ -57,6 +57,7 @@ extrasReqs = {
     'curation': ['girder-curation'],
     'candela': ['girder-candela'],
     'dicom_viewer': ['girder-dicom-viewer'],
+    'download_statistics': ['girder-download-statistics'],
     'item_tasks': ['girder-item-tasks'],
     'jobs': ['girder-jobs'],
     'worker': ['girder-remote-worker']
